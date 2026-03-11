@@ -54,4 +54,19 @@ X-Role: PHARMACY
 GET /api/pharmacies
 ```
 
+## Screenshots
+Below are sample application screens from the `testing-screenshots` folder in this repository.
+
+![List all pharmacies](testing-screenshots/List%20ALL%20Pharmacies.PNG)
+
+![List all users (admins only)](testing-screenshots/List%20All%20Users_ADMINS%20Only.PNG)
+
+![Register admin](testing-screenshots/RegisterADMIN_Test.PNG)
+
+![Register doctor](testing-screenshots/RegisterDoctor_Test.PNG)
+
+![Register pharmacy](testing-screenshots/RegisterPharmacy.PNG)
+
+![Register patient](testing-screenshots/Register_patient_test.PNG)
+
 See code comments for more details.
