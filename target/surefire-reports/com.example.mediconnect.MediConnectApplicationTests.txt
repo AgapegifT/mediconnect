@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.mediconnect.MediConnectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 52.941 s - in com.example.mediconnect.MediConnectApplicationTests
